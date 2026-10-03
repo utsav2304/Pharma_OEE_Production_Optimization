@@ -1,1 +1,0 @@
-# Pharma_OEE_Production_Optimization
